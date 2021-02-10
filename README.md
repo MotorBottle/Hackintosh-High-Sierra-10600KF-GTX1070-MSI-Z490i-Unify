@@ -1,5 +1,5 @@
 # Hackintosh-High-Sierra-10600KF-GTX1070-MSI-Z490i-Unify
-90% completed hackintosh build with 10th Gen Intel cpu and 1070 (pretty uncommen combination)
+90% completed hackintosh build with 10th Gen Intel cpu and 1070 (pretty uncommen combination)  
 这一奇幻搭配是一个怪异时代（矿潮）的产物，由于老机子（8600k）主板报废，直接购买了10代新平台板U而显卡暂时不准备更换了（事实证明购买带核显的cpu会是更好的选择），不过除了无法开启显卡硬解，其他都还好。
 
 测试支持 Support tested : High Sierra 10.13.6(17G14042)
@@ -21,7 +21,7 @@
 
 #### BIOS
 1.Secure Boot                [Disabled]  
-2.Disk set to AHCI
+2.Disk set to AHCI  
 3.XMP                        [Enabled]  
 4.CFG Lock                   [Disabled]  
 5.SGX                        [Disabled]  
